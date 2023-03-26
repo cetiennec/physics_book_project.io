@@ -9,3 +9,6 @@
 -Copy-paste the content of the build folder into docs folder <br>
 -Use ghp-import -n -p -f physics_book/_build/html
 
+Usefull links:
+
+List of emojis in hexadeciaml https://www.quackit.com/character_sets/emoji/emoji_v3.0/unicode_emoji_v3.0_characters_all.cfm
