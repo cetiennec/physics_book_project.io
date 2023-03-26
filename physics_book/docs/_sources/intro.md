@@ -7,6 +7,6 @@
 	L’ordre de ce livre et de ces explications suit celui du programme, c’est normalement l’ordre dans lequel tu rencontreras les chapitres. Si ce n’est pas le cas, libre à toi de sauter des chapitres, et si tu es curieux, libre à toi d’avancer plus vite ! </p>
 
 
-Test 
+
 ```{tableofcontents}
 ```
