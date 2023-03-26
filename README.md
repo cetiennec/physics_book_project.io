@@ -8,3 +8,4 @@
 -Use jupyter-book build physics_book/ <br>
 -Copy-paste the content of the build folder into docs folder <br>
 -Use ghp-import -n -p -f physics_book/_build/html
+
