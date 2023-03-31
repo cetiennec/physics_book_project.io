@@ -6,7 +6,8 @@
 	Ce livre est donc un compagnon qui peut t’épauler tout au long de ton année. Il te permettra de mieux comprendre et de t’approprier les chapitres en complétant les explications de ton professeur. Et il te servira aussi d’entrainements, chaque chapitre propose des exercices types, dont la correction est expliquée à travers l’énoncé. Ceux-ci t’apprendront à fouiller les énoncés tout en travaillant les formules. A la fin de chaque chapitre, tu trouveras les références de sujet de bacs correspondants aux notions ainsi que des conseils spécifiques au chapitre. Tu peux donc compléter ton entrainement avec des sujets d’annales.
 	L’ordre de ce livre et de ces explications suit celui du programme, c’est normalement l’ordre dans lequel tu rencontreras les chapitres. Si ce n’est pas le cas, libre à toi de sauter des chapitres, et si tu es curieux, libre à toi d’avancer plus vite ! </p>
 
-![](images/learning physics.jpg)
+<p style="text-align: center;"> ![](images/learning_physics.jpg) </p>
+
 Source : The varsity
 
 ```{tableofcontents}
