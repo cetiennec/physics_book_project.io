@@ -21,7 +21,7 @@ Pour comprendre plus finement le phénomène, et par exemple obtenir l’évolut
 Qu’est-ce qu’un modèle ? C’est au centre de la Physique, et pourtant je ne pense pas que je l’avais compris pendant mon lycée. Proposer un modèle c’est tenter d’expliquer une situation en faisant quelques **hypothèses**. Par exemple, on considère un cas où le sol est sec et où il n’y a pas de frottements de l’air. Ces hypothèses sont parfois explicites et souvent sous entendues. Elles conditionnent la mise en équation qu’on fera. Qu’est qu’un bon modèle ? Tout d’abord, il doit nous permettre d’expliquer notre situation de départ. S’il est trop compliqué (par exemple si on prend en compte la position du soleil pour expliquer que la pierre glisse), il sera impossible d’en tirer une conclusion. A l’inverse, s’il est trop simple, la conclusion est inintéressante (Supposons que la pente est toujours quasiment nulle, la pierre ne bouge pas, youhou !). Pour résoudre ce modèle, on fait souvent appel à des **lois**, il s’agit de formule ou de concepts, que l’expérience a permis de vérifier. N’oublie pas, l’expérience est reine en Physique, et non le modèle ! Dans notre exemple, résoudre le modèle consiste par exemple à trouver la vitesse de la pierre en fonction de l’angle. Une fois que ce modèle a permis d’expliquer notre situation, il doit nous permettre de prévoir. Mais de prévoir quoi ? Tout simplement, les résultats d’une autre expérience similaire avec des caractéristiques différentes, par exemple quelle sera la vitesse de la pierre si on double la pente ? Imaginons que notre modèle prévoit une vitesse de 2 m/s pour la pierre, et que l’on mesure en réalité 2.2 m/s. Alors on jette tout, on recommence ? Et … non. Le modèle se base sur des hypothèses qui ne sont jamais vraiment vérifiées (l’absence de frottements par exemple). Et un modèle qui prévoit à 91% le bon résultat (Ici 100\frac{2}{2,2}=91%), c’est un modèle correct. C’est la raison pour laquelle on t’apprend en Physique des conclusions qui semblent parfois absurdes. Par exemple, tu as appris l’année dernière le principe d’inertie qui stipule que tout corps soumis à aucune action extérieur, peut perdurer dans un mouvement rectiligne et uniforme, à vitesse constante donc. Est-ce valide du point de vue de l’observation ?
 Par exemple tu vas bientôt apprendre que deux corps chutent à la même vitesse quel que soit leur masse (j’y reviendrai plus loin dans le livre), est ce que c’est juste ? d’un point de vue de l’observation : non. Tu n’observeras jamais dans la vie de tous les jours une bille et un livre tomber à la même vitesse, on raconte que Galilée a essayé en haut de la tour de Pise, et évidemment ça n’a pas marché : 
 
-<p style="text-align: center;">
+<p align="center">
 
 ![](images/gallilee_pise.jpg)</p>
 
@@ -33,15 +33,15 @@ Une fois que l’on a dit ça, on a fini ? Presque. Parfois, un modèle ou une l
 
 schéma 
 
-Suffit-il toujours d’ajouter quelque chose ou parfois les lois aussi peuvent montrer leur limite ? Tu te doutes surement de la réponse. Par exemple si un objet dépasse 10% de la vitesse de la lumière (donc $0,1\ast c=0,1\ast{3.10}^8=30\ 000\ 000\frac{m}{s}$), la deuxième loi de newton ne prévoit plus du tous les bons résultats. Deux possibilités dans ce cas, soit la loi est nulle, ou fausse, ou incomplète, soit on a mis le doigt sur quelque chose. Comme l’a illustré l’exemple précédent, la loi de Newton n’est ni nulle ni fausse :blush: Le problème des objets très rapides a été l’un des problèmes qu’Einstein a expliqué avec la théorie de la relativité restreinte. Puis celle-ci a montré ses limites sur certains phénomènes, et s’en est suivi le siècle des plus grandes découvertes Physiques de l’histoire. 
-
+<p>Suffit-il toujours d’ajouter quelque chose ou parfois les lois aussi peuvent montrer leur limite ? Tu te doutes surement de la réponse. Par exemple si un objet dépasse 10% de la vitesse de la lumière (donc $0,1\ast c=0,1\ast{3.10}^8=30\ 000\ 000\frac{m}{s}$), la deuxième loi de newton ne prévoit plus du tous les bons résultats. Deux possibilités dans ce cas, soit la loi est nulle, ou fausse, ou incomplète, soit on a mis le doigt sur quelque chose. Comme l’a illustré l’exemple précédent, la loi de Newton n’est ni nulle ni fausse :blush: Le problème des objets très rapides a été l’un des problèmes qu’Einstein a expliqué avec la théorie de la relativité restreinte. Puis celle-ci a montré ses limites sur certains phénomènes, et s’en est suivi le siècle des plus grandes découvertes Physiques de l’histoire. 
+</p>
 Voilà, c’était un peu long, mais avec ça tu pars sur de bonnes bases ! Peut-être te poses tu d’autres questions, gardes les en tête ! Pour le moment je te propose de retenir que la Physique cherche à expliquer nos observations, le plus fidèlement possible. 
 
 Cette introduction avait pour but de t’introduire la physique, je l’ai expliqué en utilisant quelques concepts de cette année, pas de panique, tout est expliqué en détail dès le chapitre suivant.  
 
 En résumé, l’enseignement de la physique suit souvent un schéma assez descendant qui ressemble à ça :
 
-<p style="text-align: center;"> 
+<p align="center">
 
 ![](images/prof_1.png) 
 
@@ -49,7 +49,7 @@ En résumé, l’enseignement de la physique suit souvent un schéma assez desce
 
 Ce que te propose ce livre, c’est de t’approprier les concepts de ton programme pour en arriver aux exercices types, quelque chose comme ça :
 
-<p style="text-align: center;">
+<p align="center">
 
 ![](images/prof_2.png)
 </p>
